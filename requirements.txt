@@ -1,0 +1,5 @@
+opencv-python
+matplotlib
+numpy
+pytransform3d
+jupyterlab
